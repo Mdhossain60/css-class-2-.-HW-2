@@ -1,0 +1,44 @@
+.card{
+    background-color: rgba(106, 42, 165, 0.253);
+    width: 350px;
+    height: 200px;
+    padding:  35px 30px;
+    margin: 40px  auto;
+    background-image: url(../image/abstract-futuristic-digital-network-particles-baner-background_1017-11827.webp);
+background-position: center;
+background-size: cover;
+color: white;
+background-blend-mode: multiply;
+
+
+}
+
+.card a{
+    color: azure;
+    background-color: coral;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    display: inline-block;
+    transition: 800ml;
+}
+
+
+
+
+
+
+.card a:hover {
+    background-color: cornsilk;
+    padding: 8px 100px;
+}
+
+
+.card 2 { background-color: black;
+     width: 300px;
+     height:200px;
+     padding: 30px 25px;
+     margin:40px auto;
+     
+    }
+    
